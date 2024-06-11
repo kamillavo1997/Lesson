@@ -1,0 +1,24 @@
+body {
+font-family: Arial;
+font-weight: 600;
+font-style: italic;
+background: url("https://i.pinimg.com/474x/47/e5/2f/47e52f9c88abc2ad233c18d5b8078a20.jpg");
+}
+
+h1, h2 {
+  color: red;
+  text-decoration:underline;
+  font-family: serif;
+}
+
+.big {
+  font-size: 65px;
+}
+
+.wide {
+line-height: 130px
+  }
+
+#first {
+  color: blue;
+}
